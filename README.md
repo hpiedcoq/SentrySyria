@@ -13,5 +13,5 @@ Sentry Syria is a quick warning system that sends quick warnings within seconds 
 
 Example of reuse of this dataset : 
 
-![Chart Sentry Syria](https://files.slack.com/files-pri/T8HP32GGP-FBLNLRU2X/sentry_syria_comp.png)
+![Chart Sentry Syria](https://raw.githubusercontent.com/hpiedcoq/SentrySyria/master/sentry_syria_comp.png)
 
