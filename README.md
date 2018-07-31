@@ -3,3 +3,15 @@
 This repo contains a dump of all the 16.614 accessible tweets of the Sentry_Syria account, from 2016-08-01 to 2018-07-08.
 
 These tweets are scraped with Twint : https://github.com/twintproject/twint
+![Logo Sentry Syria](https://pbs.twimg.com/profile_images/874946861550981120/7iN_hPbN_400x400.jpg)
+
+Sentry Syria is a quick warning system that sends quick warnings within seconds of the flight monitoring and dissemination process to civilians in coordination with civilian observatories inside Syria.
+
+
+
+نظام تحذير سريع يقوم بعملية إرسال تحذيرات سريعة خلال ثوانٍ من عملية رصد الطيران وتعميمها على المدنيين بالتنسيق مع مراصد مدنية داخل سوريا.
+
+Example of reuse of this dataset : 
+
+![Chart Sentry Syria](https://files.slack.com/files-pri/T8HP32GGP-FBLNLRU2X/sentry_syria_comp.png)
+
