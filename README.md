@@ -4,7 +4,7 @@ This repo contains a dump of all the 16.614 accessible tweets of the Sentry_Syri
 
 I'll try to update this repo as often as I can.
 
-Update : Sentry_Syria2.csv : from 2016-07-08 to 2018-08-06
+Update : Sentry2.csv : from 2016-07-08 to 2018-08-06
 
 These tweets are scraped with Twint : https://github.com/twintproject/twint
 ![Logo Sentry Syria](https://pbs.twimg.com/profile_images/874946861550981120/7iN_hPbN_400x400.jpg)
