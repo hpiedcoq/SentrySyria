@@ -1,4 +1,5 @@
 # SentrySyria
+https://twitter.com/Sentry_Syria
 
 This repo contains a dump of all the 91.860 accessible tweets of the Sentry_Syria account, from 2016-08-01 to 2018-08-06 
 
