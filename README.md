@@ -1,6 +1,6 @@
 # SentrySyria
 
-This repo contains dumps of all the accessible messages sent by the Sentry_Syria accounts on Social Networks, from 2016-08-01 to 2018-08-30.
+This repo contains dumps of all the accessible messages sent by the Sentry_Syria accounts on Social Networks, from 2016-08-01 to 2018-10-02.
 I try to update and maintain these datasets every month.
 
 
@@ -8,6 +8,12 @@ I try to update and maintain these datasets every month.
 
 Sentry Syria is a quick warning system that sends quick warnings within seconds of the flight monitoring and dissemination process to civilians in coordination with civilian observatories inside Syria.
 نظام تحذير سريع يقوم بعملية إرسال تحذيرات سريعة خلال ثوانٍ من عملية رصد الطيران وتعميمها على المدنيين بالتنسيق مع مراصد مدنية داخل سوريا.
+
+https://www.whitehelmets.org/en
+
+Please Fund the White Helmets : https://peoplesmillion.whitehelmets.org/act/peoples-million/?source=whweb
+
+
 
 ## Via Twitter
 
