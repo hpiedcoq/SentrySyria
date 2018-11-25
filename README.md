@@ -1,6 +1,6 @@
 # SentrySyria
 
-This repo contains dumps of all the accessible messages sent by the Sentry_Syria accounts on Social Networks, from 2016-08-01 to 2018-10-02.
+This repo contains dumps of all the accessible messages sent by the Sentry_Syria accounts on Social Networks, from 2016-08-01 to 2018-11-25.
 I try to update and maintain these datasets every month.
 
 
